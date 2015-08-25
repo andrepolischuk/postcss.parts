@@ -274,8 +274,11 @@ var _fullPlugins = {
 			"url": "https://github.com/himynameisdave/postcss-rgb-plz",
 			"name": "postcss-rgb-plz",
 			"description": "converts 3 or 6 digit hex values to rgb"
+		}, {
+			"url": "https://github.com/andrepolischuk/postcss-color-short",
+			"name": "postcss-color-short",
+			"description": "Adds shorthand color declarations"
 		}
-		
 	],
 	"Images and Fonts": [
 		{
